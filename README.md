@@ -134,5 +134,5 @@ This project is licensed under the MIT License.
 
 ## 📩 Contact
 
-For any queries, reach out at [your.email@example.com](mailto\:your.email@example.com).
+For any queries, reach out at [your.email@example.com](paarthsahni112@gmail.com).
 
